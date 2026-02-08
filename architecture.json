@@ -1,0 +1,72 @@
+{
+  "book_id": "renaissance-northern-maximalist-freedom-constraint",
+  "title": "The Gilt and the Groaning Table",
+  "tagline": "A woman painter forges her freedom with brush and lie in a world that feasts upon ambition, where every masterpiece is an act of rebellion.",
+  "target_words": 72908,
+  "actual_words": 72908,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Artistic Creation as Subversion",
+    "The Constructions of Identity and Class",
+    "The Alchemy of Deception and Truth",
+    "The Clash Between Ambition and Societal Confinement"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Gilt and the Groaning Table",
+      "words": 6628
+    },
+    {
+      "ch": 2,
+      "title": "A Lesson in Humility, Paved in Mud",
+      "words": 6628
+    },
+    {
+      "ch": 3,
+      "title": "The Fever of Lazarus",
+      "words": 6628
+    },
+    {
+      "ch": 4,
+      "title": "A Map Written by a Liar",
+      "words": 6628
+    },
+    {
+      "ch": 5,
+      "title": "Where the World Lets Its Edges Fray",
+      "words": 6628
+    },
+    {
+      "ch": 6,
+      "title": "The Grammar of an Ambush",
+      "words": 6628
+    },
+    {
+      "ch": 7,
+      "title": "Sanctuary as a Sharpening Stone",
+      "words": 6628
+    },
+    {
+      "ch": 8,
+      "title": "The Violent Green Insistence",
+      "words": 6628
+    },
+    {
+      "ch": 9,
+      "title": "A Room With No Doors",
+      "words": 6628
+    },
+    {
+      "ch": 10,
+      "title": "The Act of Subtraction",
+      "words": 6628
+    },
+    {
+      "ch": 11,
+      "title": "An Illiterate in Brutal Syntax",
+      "words": 6628
+    }
+  ]
+}
